@@ -1,4 +1,4 @@
-name: Workflow name on main
+name: Workflow name on develop
 
 on:
   workflow_dispatch:
